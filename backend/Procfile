@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cycle_maps_5198.wsgi:application
